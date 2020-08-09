@@ -1,7 +1,7 @@
 # AT-BiLSTM
 ### Requirements
 1. Instalar requirements: `pip install -r requirements.txt`
-2. Tambien instalar pytorch (<= 1.60) <br> 
+2. Tambien instalar pytorch (>= 1.60) <br> 
 Versión con CUDA 10.2: <br> 
 `pip install torch===1.6.0 torchvision===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html` <br>
 Versión con CPU: <br>
